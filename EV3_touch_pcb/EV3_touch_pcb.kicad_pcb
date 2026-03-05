@@ -807,15 +807,15 @@
 			(uuid "b9a7e4a9-09ca-404b-8749-d3e5e3cb4ff3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ25_Wayconn_MJEA-660X1_Horizontal.step"
+		(model "${KIPRJMOD}/lib/3d/EV3_touch_mcad-cheaty-RJ12.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -11 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)

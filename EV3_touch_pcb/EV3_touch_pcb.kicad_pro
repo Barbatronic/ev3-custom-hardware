@@ -504,7 +504,7 @@
       "plot": "fab/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "EV3_touch_pcb.step",
       "svg": "",
       "vrml": ""
     },
